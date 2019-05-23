@@ -5,3 +5,4 @@ milk
 eggs
 chocolate
 carrots
+cream cheese
